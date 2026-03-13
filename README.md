@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Pedro 👋
 
-<!--
-**phsoousa/phsoousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Engenheiro de Dados Jr em desenvolvimento
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Python
+- SQL
+- ETL
+- PostgreSQL
+- Spark
+- Airflow
+- AWS / GCP
+- Databricks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projetos
+📌 Pipeline de dados com Python  
+📌 Análise de dados com SQL  
+📌 Processamento de dados com Spark
+
+## 📚 Atualmente estudando
+- Engenharia de Dados
+- Cloud Computing
+- Data Pipelines
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/pedro-henrique-sousa-/
