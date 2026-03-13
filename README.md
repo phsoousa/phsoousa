@@ -6,8 +6,7 @@
 - Python
 - SQL
 - ETL
-- PostgreSQL
-- Spark
+- Spark  
 - Airflow
 - AWS / GCP
 - Databricks
