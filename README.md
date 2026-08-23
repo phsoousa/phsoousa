@@ -1,25 +1,33 @@
-# Olá, eu sou Pedro 👋
+# Hi, I'm Pedro 👋
 
-🎯 Engenheiro de Dados Jr em desenvolvimento
+🎯 **Data Engineer (Mid-level)** — working with data since 2022, currently own the entire data function (pipelines, BI, analytics) for a healthcare consultancy.
 
-## 🚀 Tecnologias
+🌎 Open to **remote, international roles** (US/EU) in Data Engineering, with growing interest in Analytics Engineering.
+
+## 🚀 Daily stack
 - Python
 - SQL
-- ETL
-- Spark  
 - Airflow
-- AWS / GCP
+- dbt
 - Databricks
+- Spark
+- Azure
+- GCP
 
-## 📊 Projetos
-📌 Pipeline de dados com Python  
-📌 Análise de dados com SQL  
-📌 Processamento de dados com Spark
+## 🔧 Also using in personal projects & studies
+- AWS
+- Terraform
+- Kafka
+- Snowflake
+- BigQuery
+- Docker
+- Kubernetes
+- CI/CD
 
-## 📚 Atualmente estudando
-- Engenharia de Dados
-- Cloud Computing
-- Data Pipelines
+## 📊 Featured projects
+- **etl-sales-project** — ETL pipeline with Python, Pandas and PostgreSQL
+- **airflow-brawebtran-data-pipeline** — end-to-end pipeline with Airflow, Selenium, Pandas and Power BI
+- **data-engineering-portfolio** — collection of data engineering projects (pipelines, ETL, data architecture)
 
-## 📫 Contato
-LinkedIn: https://www.linkedin.com/in/pedro-henrique-sousa-/
+## 📫 Contact
+LinkedIn: [linkedin.com/in/pedro-henrique-sousa-](https://www.linkedin.com/in/pedro-henrique-sousa-/)
