@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-🎯 **Data Engineer (Mid-level)** — working with data since 2022, currently own the entire data function (pipelines, BI, analytics) for a healthcare consultancy.
+🎯 **Data Engineer** — working with data since 2022, currently own the entire data function (pipelines, BI, analytics) for a healthcare consultancy.
 
 🌎 Open to **remote, international roles** (US/EU) in Data Engineering, with growing interest in Analytics Engineering.
 
